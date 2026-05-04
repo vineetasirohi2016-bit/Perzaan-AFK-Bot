@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Shinesmps1.aternos.me",
+    "port": 40192,
+    "version": "1.21.6"
   },
   "position": {
     "enabled": true,
